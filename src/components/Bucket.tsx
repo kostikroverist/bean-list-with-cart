@@ -1,4 +1,3 @@
-import React from "react";
 import { SlBasket, SlBasketLoaded } from "react-icons/sl";
 type Props = {
   isEmpty: boolean;
