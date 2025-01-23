@@ -11,7 +11,6 @@ const Home = () => {
   console.log(beans);
   return (
     <div>
-      <p>this is home page</p>
       <CardList data={beans} />
     </div>
   );
